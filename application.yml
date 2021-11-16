@@ -6,3 +6,5 @@ eureka:
       defaultZone: http://localhost:8762/eureka/
   instance:
     hostname: localhost
+welcome:
+  message: welcome to dev env
